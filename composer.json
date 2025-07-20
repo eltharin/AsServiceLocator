@@ -1,0 +1,14 @@
+{
+    "name": "eltharin/asservicelocator",
+    "autoload": {
+        "psr-4": {
+            "Eltharin\\AsServiceLocatorBundle\\": "src/"
+        }
+    },
+	"description": "dayhour Bundle for symfony",
+    "keywords": ["Symfony", "PHP", "Web", "Bundle"],
+    "license": "GPL-3.0",
+	"type": "symfony-bundle",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

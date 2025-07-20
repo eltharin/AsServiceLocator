@@ -17,6 +17,4 @@ composer require eltharin/asservicelocator
 
 What is AsServiceLocator Bundle?
 ---------------------------
-This bundle will allow eager links with conditions
-
-you can request links automaticly in ``with`` argument of getDQL function
+This bundle will allow to configure ServiceLocator by attribute
